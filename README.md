@@ -6,7 +6,7 @@ My name is **Matthew Cespon**. I am currently a 2nd year student studying **Inte
 
 I have a big interest in front end technologies covering frameworks such as **Vue JS**, and currently learning React! 📝
 
-## Current skills and languages include: ⚡
+## Skills: ⚡
 + Java
 + JavaScript
 + HTML/CSS
@@ -16,6 +16,7 @@ I have a big interest in front end technologies covering frameworks such as **Vu
 
 ## Connect with me!
 + [LinkedIn](https://www.linkedin.com/in/matthewcespon)
++ [Behance](https://behance.net/matthewcespon)
 
 
 <!--

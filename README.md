@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello!👋 
+
+My name is **Matthew Cespon**. I am currently studying **Interactive Computing** at Ulster University. 🎓
+
+I have a big interest in front end technologies covering frameworks such as **Vue JS**, and currently learning React! 📝
+
+Current skills and languages include: ⚡
++ Java
++ JavaScript
++ HTML/CSS
++ Python
++ SQL
++ Bash
+
+
 
 <!--
 **matthewcespon/matthewcespon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

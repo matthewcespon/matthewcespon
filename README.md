@@ -1,10 +1,12 @@
-### Hello!👋 
+![backgroundrme](https://github.com/matthewcespon/matthewcespon/assets/98528639/a5e597f2-7526-408e-b514-fe6db8428afe)
 
-My name is **Matthew Cespon**. I am currently studying **Interactive Computing** at Ulster University. 🎓
+### Hello there!👋 
+
+My name is **Matthew Cespon**. I am currently a 2nd year student studying **Interactive Computing** at Ulster University. 🎓
 
 I have a big interest in front end technologies covering frameworks such as **Vue JS**, and currently learning React! 📝
 
-Current skills and languages include: ⚡
+## Current skills and languages include: ⚡
 + Java
 + JavaScript
 + HTML/CSS
@@ -12,6 +14,8 @@ Current skills and languages include: ⚡
 + SQL
 + Bash
 
+## Connect with me!
++ [LinkedIn](https://www.linkedin.com/in/matthewcespon)
 
 
 <!--

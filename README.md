@@ -14,7 +14,7 @@ I have a big interest in front end technologies covering frameworks such as **Vu
 + SQL
 + Bash
 
-## Connect with me!
+## Connect with me! 🌐
 + [LinkedIn](https://www.linkedin.com/in/matthewcespon)
 + [Behance](https://behance.net/matthewcespon)
 

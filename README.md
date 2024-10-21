@@ -1,20 +1,22 @@
 
 ### Hello there!👋 
 
-My name is **Matthew Cespon**. I am currently a 2nd year student studying **Interactive Computing** at Ulster University. 🎓
+My name is **Matthew Cespon**. I am currently a placement student studying **Interactive Computing** at Ulster University. 🎓
 
-I have a big interest in front end technologies covering frameworks such as **Vue JS**, and currently learning React! 📝
+I have a big interest in front end technologies covering frameworks such as **Vue JS**, and **REACT** 📝
 
 
 
 ## Skills: ⚡
 + Java
-+ JavaScript
++ JavaScript / Typescript
 + HTML/CSS
 + Python
 + SQL
 + Bash
 + UX/UI Design
++ React
++ VIM
 
 ## Connect with me! 🌐
 + [LinkedIn](https://www.linkedin.com/in/matthewcespon)
